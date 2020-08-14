@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Rowdies');
+
+body {
+    margin: 0;
+    font-family: Rowdies;
+}
+
+a {
+    display: flex;
+    justify-content: center;
+    color: #978AAF;
+    text-decoration: none;
+}
+
+.fl {
+    font-weight: 1.5rem;
+}
+
+.sec {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+
